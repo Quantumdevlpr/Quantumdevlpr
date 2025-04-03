@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)
+<p align ="center">![MasterHead](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)</p>
 <h1 align="center">Hi 👋, I'm Shivansh Maurya</h1>
 <h3 align="center">Computer Science and Engineering Student | Frontend Developer | Python Enthusiast (Pandas, NumPy, Tkinter) | DSA in Java | Exploring Flutter | Building FlashDevs</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumndevlplr&label=Profile%20views&color=0e75b6&style=flat" alt="quantumndevlplr" /> </p>
