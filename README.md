@@ -2,7 +2,6 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2NzAzOTAsIm5iZiI6MTc0MzY3MDA5MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAzVDA4NDgxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwZTAwNjNmMDk5YmQ0OTk0MDllZDUxZDMzNmVlNmMxOWM2OWMyZjQzYTM2YjBhNTY4OGJiN2M0M2VhNTUxYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fWSA3W-nOcfVxn4vgU4Bce6CpWmHGNsraXRVT3jKMPs" alt="MasterHead">
   <img src = "https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt = "bar"> 
 </p>
-
 <h1 align="center">Hi 👋, I'm Shivansh Maurya</h1>
 <h3 align="center">Computer Science and Engineering Student | Frontend Developer | Python Enthusiast (Pandas, NumPy, Tkinter) | DSA in Java | Exploring Flutter | Building FlashDevs</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumndevlplr&label=Profile%20views&color=0e75b6&style=flat" alt="quantumndevlplr" /> </p>
