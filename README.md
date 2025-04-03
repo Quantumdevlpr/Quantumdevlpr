@@ -22,10 +22,12 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/mshivanshmaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mshivanshmaurya/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mshivanshmaurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mshivanshmaurya/" height="30" width="40" /></a>
 
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/mshivanshmaurya?ext=heatmap)
 <div>
-    <img alt="Shivansh's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Quantumdevlpr&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true">
+<p align = "center">
+ <img alt="Shivansh's Github Stats" width="47%" src="https://leetcard.jacoblin.cool/mshivanshmaurya?ext=heatmap">
+</p>
+<p align= "center">
+    <img alt="Shivansh's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Quantumdevlpr&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"></p>
     
 </div>
 <h3 align="left">Languages and Tools:</h3>
