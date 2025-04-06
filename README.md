@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **FlashDevs**
+- 🔭 I’m currently working on **FlashDevs and SkinxAi**
 
 - 🌱 I’m currently learning **Flutter and JS frameworks**
 
