@@ -34,7 +34,7 @@
   <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="60" height="60">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="60" height="60">
   <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" width="60" height="60">
-  <img src = "https://assets.leetcode.com/static_assets/others/25100.gif">
+  <img src = "https://assets.leetcode.com/static_assets/others/lg25100.png " width="60" height = "60">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
