@@ -33,7 +33,7 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60" height="60">
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="60" height="60">
-  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png" width="60" height="60">
+  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="60" height="60">
   <img src = "https://assets.leetcode.com/static_assets/others/25100.gif" width="60" height = "60">
 </div>
 
