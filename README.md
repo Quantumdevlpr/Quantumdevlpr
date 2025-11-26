@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Shivansh Maurya</h1>
 <h3 align="center">Computer Science and Engineering Student | Frontend Developer | Python Enthusiast (Pandas, NumPy, Tensorflow ) | DSA in Java | Exploring React Native | Building FlashDevs</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumndevlplr&label=Profile%20views&color=0e75b6&style=flat" alt="quantumndevlplr" /> </p>
+<p align="left"> <img src="https://github.com/isabelajastrombek/ArtfulJourney?tab=readme-ov-file" alt="quantumndevlplr" /> </p>
 
 
 
