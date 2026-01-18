@@ -8,9 +8,9 @@
 
 
 
-- 🔭 I’m currently working on **Swift & Swift ui**
+- 🔭 I’m currently working on **FlashDevs & HeartAnchor**
 
-- 🌱 I’m currently learning **React Native and JS frameworks**
+- 🌱 I’m currently learning **Swift & Swift ui**
 
 - 📫 How to reach me **mshivanshmaurya@gmail.com**
   
