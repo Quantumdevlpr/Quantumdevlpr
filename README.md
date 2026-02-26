@@ -3,7 +3,7 @@
   <img width = "40%" height ="30%" src = "https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg3NDY3MTUsIm5iZiI6MTc2ODc0NjQxNSwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTE4VDE0MjY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhNThlYzJjMmFkY2JmNmFiNTJkOWMwNzY1MGVmMDE3ZWQ2YmM1NTZmM2Q0NzYxMzVmY2Y1MDU1Mjk1OWMwYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZKJxeGQHalqEnh2aACFHEYo0XGA-Y0gxLZR9sGZV2Ik" alt = "bar"> 
 </p>
 <h1 align="center">Hi 👋, I'm Shivansh Maurya</h1>
-<h3 align="center">Computer Science and Engineering Student | Frontend Developer | Python Enthusiast (Pandas, NumPy, Tensorflow ) | DSA in Java | Exploring React Native | Building FlashDevs</h3>
+<h3 align="center">Computer Science and Engineering Student | Swift & SwiftUI  |  (Pandas, NumPy, Tensorflow )| DSA in Java | Frontend Developer | Building FlashDevs</h3>
 
 
 
